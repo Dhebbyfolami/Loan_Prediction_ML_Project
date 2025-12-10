@@ -147,7 +147,7 @@ Create an automated prediction API
 Your Name
 📧 Email: dhebbyfolasayomi97@gmail.com
 🔗 GitHub: https://github.com/Debbyfolami
-💼 LinkedIn: (Oluwasayo Adeola)
+💼 LinkedIn: [(Oluwasayo Adeola)](https://www.linkedin.com/in/oluwasayo-adeola-a035472a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
 ---
